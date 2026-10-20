@@ -662,3 +662,13 @@ button, a {
     padding: 27px 6%;
   }
 }
+@media (max-width: 768px) {
+  .about-section {
+    padding: 15px;
+    margin-bottom: 25px;
+  }
+
+  .about-section h2 {
+    font-size: 20px;
+  }
+}
